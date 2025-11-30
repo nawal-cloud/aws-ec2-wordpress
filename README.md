@@ -37,9 +37,4 @@ This hands‑on project demonstrates how to deploy a WordPress application on a 
 ---
 
 ## 📷 Screenshots
-> Upload screenshots to your repo and reference them here:
-```markdown
-![VPC Setup](vpc-setup.png)
-![EC2 Instance](ec2-instance.png)
-![Apache Test Page](apache-test.png)
-![WordPress Site](wordpress-home.png)
+
